@@ -17,7 +17,7 @@
 I enjoy working on modern web technologies. 
 I love exploring new frameworks.
 <pre>
-💻 I am studying at the Air University Islamabad in the 4th year of Software Engineering.
+💻 I hold a Bachelor’s degree in Software Engineering from Air University, Islamabad.
 📝 I have a strong interest in Web Development.
 🔭 Working on advanced front-end and back-end projects.
 🌱 Learning about new frameworks and modern web technologies.
