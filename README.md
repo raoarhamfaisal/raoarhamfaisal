@@ -5,7 +5,7 @@
 <p>
   <a href="https://github.com/fairyland0926">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20Full%20Stack-Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&width=650&height=120&color=58a6ff&size=45" 
+      src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20Full%20Stack-Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&width=650&height=120&color=58a6ff&size=45" 
       alt="Typing SVG" 
     />
   </a>
