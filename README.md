@@ -24,7 +24,7 @@ I love exploring new frameworks.
 🌟 Main languages: Vue.js, React, Laravel, Node.js
 🚩 Interested in Full Stack Web Application development.
 🤔 I’m currently open for a new <b>job opportunity</b>. 
-This is <a href="https://drive.google.com/file/d/1pRZseXcv-2hfB_50M9_r3njzpwR8Lxv3/view?usp=sharing" target="_blank">MY RESUME</a>.
+This is <a href="https://drive.google.com/file/d/12PGVQN_ztpgEmmUVP5Y5aTR_DextHF8S/view?usp=sharing" target="_blank">MY RESUME</a>.
 </pre>
 
 # 💻Tech Stack
